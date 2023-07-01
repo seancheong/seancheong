@@ -3,7 +3,7 @@
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Frontend%20Team%20Lead-2980b9?style=flat&labelColor=2c3e50&logo=data:image/svg%2Bxml;base64,<BASE64_DATA>&colorA=ffffff)
 ![Location](https://img.shields.io/badge/Location-Tokyo,%20Japan-16a085?style=flat&labelColor=2c3e50&logo=data:image/svg%2Bxml;base64,<BASE64_DATA>&colorA=ffffff)
 
-I am a software engineer with over 11 years of coding experience, specializing in frontend development.
+I am a software engineer with over 12 years of coding experience, specializing in frontend development.
 
 ## 💼 Experience
 
