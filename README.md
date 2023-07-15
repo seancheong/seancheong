@@ -7,10 +7,11 @@ I am a software engineer with over 12 years of coding experience, specializing i
 
 ## 💼 Experience
 
-- **Senior Software Engineer** - Asurion Japan (2018 - Present)
-  - Leading and managing a team of around 6 frontend developers
-  - Designed and developed large-scale desktop applications for both Windows and macOS, used for running diagnostics on mobile devices using frameworks like React and Electron
-  - Developed and implemented webviews for iOS and Android mobile applications using Vue.js
+- **Senior Software Engineer (Frontend Team Lead)** - Asurion Japan (2018 - Present)
+  - Led and managed a team of around 6 developers responsible for producing and maintaining projects involved in mobile and web frontend developments.
+  - Designed and developed a highly configurable and scalable desktop applications for both Windows and Mac OS. These applications, used by logistic factories worldwide, run diagnostics on mobile devices using frameworks like Angular, React, and Electron.
+  - Played a key role in the architectural design, development and maintenance of the frontend part of a mobile application (for both iOS and Android) used by approximately 5 million users in Japan in collaboration with KDDI, the second largest provider in Japan.
+  - Contributed to the growth of the application, achieving a cumulative provisioning count of 788K and maintaining a stable monthly active user base of around 80K.
   - Involved in mobile application development for both iOS and Android using native languages, such as Swift and Kotlin
 - **Software Engineer II** - Thermo Fisher Scientific Singapore (2015 - 2018)
   - Designed and developed genetic instrument and genetic data analysis web applications using AngularJS, Spring MVC, and AWS services
@@ -30,6 +31,7 @@ I am a software engineer with over 12 years of coding experience, specializing i
 
 ## 📫 Get in touch
 
+- **Medium:** [https://medium.com/@seancheongzhenxiong](https://medium.com/@seancheongzhenxiong)
 - **LinkedIn:** [https://www.linkedin.com/in/zhen-xiong-cheong-b80630ba/](https://www.linkedin.com/in/zhen-xiong-cheong-b80630ba/)
 - **Email:** [sean.cheong@outlook.jp](mailto:sean.cheong@outlook.jp)
 - **Portfolio:** [http://seancodinglab.com](http://seancodinglab.com)
