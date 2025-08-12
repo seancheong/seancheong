@@ -7,7 +7,12 @@ I am a software engineer with over 14 years of coding experience, specializing i
 
 ## 💼 Experience
 
-- **Senior Software Engineer (Frontend Team Lead)** - Asurion Japan (2018 - Present)
+- **Senior Software Engineer** - Woven by Toyota Japan (2023 - Present)
+  - Driving the development of a robust web application utilizing the Next.js framework, ensuring optimal performance and user experience.
+  - Facilitating effective communication between the frontend and backend teams to streamline API integration for seamless functionality of the application.
+  - Providing mentorship and guidance to other frontend developers.
+  - Collaborating closely with cross-functional teams to align project requirements and deliver high quality software solutions.
+- **Senior Software Engineer (Frontend Team Lead)** - Asurion Japan (2018 - 2023)
   - Led and managed a team of around 6 developers responsible for producing and maintaining projects involved in mobile and web frontend developments.
   - Designed and developed a highly configurable and scalable desktop applications for both Windows and Mac OS. These applications, used by logistic factories worldwide, run diagnostics on mobile devices using frameworks like Angular, React, and Electron.
   - Played a key role in the architectural design, development and maintenance of the frontend part of a mobile application (for both iOS and Android) used by approximately 5 million users in Japan in collaboration with KDDI, the second largest provider in Japan.
@@ -34,7 +39,7 @@ I am a software engineer with over 14 years of coding experience, specializing i
 - **Medium:** [https://medium.com/@seancheongzhenxiong](https://medium.com/@seancheongzhenxiong)
 - **LinkedIn:** [https://www.linkedin.com/in/zhen-xiong-cheong-b80630ba/](https://www.linkedin.com/in/zhen-xiong-cheong-b80630ba/)
 - **Email:** [sean.cheong@outlook.jp](mailto:sean.cheong@outlook.jp)
-- **Portfolio:** [http://seancodinglab.com](http://seancodinglab.com)
+- **Portfolio:** [https://www.seancheong.dev](https://www.seancheong.dev)
 
 📊 GitHub Statistics:
 
